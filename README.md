@@ -1,0 +1,1 @@
+This project is to put my DOM manipulation skills to the test by building a browser version of something between a sketchpad and an Etch-A-Sketch. 
